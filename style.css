@@ -1,0 +1,232 @@
+ul {
+    background-color: rgba(176, 224, 230, 0.092);
+    height: 50px;
+    color: black;
+}
+
+.navigation {
+    display: flex;
+    position: relative;
+    justify-items: center;
+    padding: 0px;
+    font-size: 20px;
+    flex-wrap: wrap;
+}
+
+li {
+    padding: 0px 0px 0px 20px;
+    position: relative;
+    left: 100px;
+    color: black;
+}
+
+ul {
+    list-style: none;
+
+}
+
+.logo {
+    position: relative;
+    right: 10px;
+    bottom: 10px;
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+input {
+    position: relative;
+    left: 675px;
+    top: 10px;
+    font-size: 15px;
+    /* font-weight: bolder; */
+    background-color: black;
+    color: aliceblue;
+    border-radius: 20px;
+}
+
+.nav {
+    background-image: url(./Img/img3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 1.5px;
+        /* background-color: yellow; */
+    border: 2px solid rgba(176, 224, 230, 0.092);
+    height: 382px;
+
+}
+.article{
+    position: relative;
+    right: 4px;
+    top: 37px;
+    
+}
+input#one{
+    position: relative;
+    left: 47px;
+    top: 25px;
+    font-size: 15px;
+    /* font-weight: bolder; */
+    background-color: black;
+    color: aliceblue;
+    border-radius: 20px 
+}
+.outerBox{
+    background-color: rgba(176, 224, 230, 0);
+    height: 300px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: left;
+    justify-content: space-evenly;
+    
+    padding-top: -2px;
+}
+.innerBox{
+    position: relative;
+    right: 81px;
+    top: 18px;
+    background-color: rgba(176, 224, 230, 0);
+    height: 237px;
+    width: 290px;
+    border-radius: 5px;
+}
+   
+
+#box1{
+    background-image: url(./Img/img1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;  
+    background-position: 1px;
+    background-position: bottom;
+
+
+}
+#box2{
+    background-image: url(./Img/img2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;  
+    background-position: 1px;
+    background-position: bottom;
+    position: relative;
+    right: 135px;
+}
+#box3{
+    background-image: url(./Img/img4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;  
+    background-position: 1px;
+    background-position: bottom;
+    position: relative;
+    right: 190px;
+
+}
+.photo_content{
+    background-color: rgba(98, 216, 231, 0);
+    height: 190px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: left;
+    justify-content: space-evenly;
+    padding-top: 20px; 
+
+}
+.content{
+    position: relative;
+    right: 78px;
+    top: -74px;
+    background-color: rgba(189, 198, 199, 0);
+    height: 184px;
+    width: 290px;
+    border-radius: 5px;
+    padding-left: 10px;
+}
+
+#dis1{
+    position: relative;
+    left: 50px;
+    top: 13px;
+    font-size: 23px;
+    /* font-weight: bolder; */
+    background-color: rgba(189, 198, 199, 0);
+    color: rgb(43, 46, 49);
+    border-radius: 30px;
+    height: 50px;
+}
+#dis2{
+    position: relative;
+    left: 50px;
+    top: 13px;
+    font-size: 23px;
+    /* font-weight: bolder; */
+    background-color: rgba(189, 198, 199, 0);
+    color: rgb(43, 46, 49);
+    border-radius: 30px;
+    height: 50px;
+    
+}
+#dis3{
+    position: relative;
+    left: 43px;
+    top: 13px;
+    font-size: 23px;
+    /* font-weight: bolder; */
+    background-color: rgba(189, 198, 199, 0);
+    color: rgb(43, 46, 49);
+    border-radius: 30px;
+    height: 50px;
+}
+#item2{
+    
+    position: relative;
+    right: 135px;
+}
+#item3{
+    position: relative;
+    right: 190px;
+}
+.outer-sec{
+    background-color: rgba(176, 224, 230, 0.057);
+    height: 300px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: left;
+    justify-content: space-evenly;
+    
+    padding-top: -2px;
+}
+.inner-sec{
+    position: relative;
+    right: 81px;
+    top: 18px;
+    background-color: rgba(92, 103, 105, 0);
+    height: 237px;
+    width: 290px;
+    border-radius: 5px;
+}
+#inbox1{
+    background-image: url(./Img/img1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;  
+    background-position: 1px;
+    background-position: bottom;
+
+
+}
+#inbox2{
+    background-image: url(./Img/img2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;  
+    background-position: 1px;
+    background-position: bottom;
+    position: relative;
+    right: 135px;
+}
+#inbox3{
+    background-image: url(./Img/img4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;  
+    background-position: 1px;
+    background-position: bottom;
+    position: relative;
+    right: 190px;
+}
+
